@@ -4,5 +4,5 @@ ext.vMinSdk = 15
 ext.vTargetSdk = 22
 ext.vSupportLib = "24.2.1"
 //third library
-ext.vCommonRes = "V0.1"
-ext.vCommonUtil = "V0.2"
+ext.vCommonRes = 'V0.1'
+ext.vCommonUtil = 'V0.2'
