@@ -16,3 +16,5 @@ ext.vSuperToast = 'v0.1'
 ext.vRetrofit = '2.1.0'
 //converter-gson
 ext.vConverterGson = '2.0.2'
+//glide
+ext.vGlide = '3.7.0'
