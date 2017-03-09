@@ -14,3 +14,7 @@ ext.vCommonUtil = 'v0.2'
 ext.vSuperToast = 'v0.1'
 //dagger
 ext.vDagger2 = '2.1'
+//retrofit
+ext.vRetrofit = '2.1.0'
+//converter-gson
+ext.vConverterGson = '2.0.2'
