@@ -3,6 +3,12 @@ ext.vBuildTools = "24.0.3"
 ext.vMinSdk = 15
 ext.vTargetSdk = 22
 ext.vSupportLib = "24.2.1"
-//third library
+//RxJava
+ext.vRxAndroid = '1.2.1'
+ext.vRxJava = '1.2.3'
+//dragger
+ext.vDagger2 = '2.1'
+//common library
 ext.vCommonRes = 'V0.1'
 ext.vCommonUtil = 'v0.2'
+ext.vSuperToast = 'v0.1'
