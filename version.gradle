@@ -1,6 +1,6 @@
 ext.vCompileSdk = 24
 ext.vBuildTools = "24.0.3"
-ext.vMinSdk = 15
+ext.vMinSdk = 16
 ext.vTargetSdk = 22
 ext.vSupportLib = "24.2.1"
 //RxJava
